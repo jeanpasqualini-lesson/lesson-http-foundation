@@ -6,7 +6,7 @@
  * Time: 9:00 AM
  */
 
-namespace Test;
+namespace Demo;
 
 use Factory\RequestFactory;
 use Interfaces\TestInterface;
@@ -128,6 +128,4 @@ class RequestTest implements TestInterface {
             $quality = $item->getQuality();
         }
     }
-
-
 }

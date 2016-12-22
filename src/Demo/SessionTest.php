@@ -6,7 +6,7 @@
  * Time: 10:44 AM
  */
 
-namespace Test;
+namespace Demo;
 
 
 use Interfaces\TestInterface;

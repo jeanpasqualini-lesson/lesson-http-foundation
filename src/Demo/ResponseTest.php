@@ -6,7 +6,7 @@
  * Time: 10:15 AM
  */
 
-namespace Test;
+namespace Demo;
 
 
 use Factory\RequestFactory;

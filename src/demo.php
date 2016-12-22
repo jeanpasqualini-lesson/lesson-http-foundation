@@ -3,8 +3,8 @@
 require __DIR__."/../vendor/autoload.php";
 
 $tests = array(
-    new \Test\RequestTest(),
-    new \Test\ResponseTest(),
+    new \Demo\RequestTest(),
+    new \Demo\ResponseTest(),
     //new \Test\SessionTest()
 );
 
